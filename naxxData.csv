@@ -1,0 +1,589 @@
+player,item,class
+Turkil-Herod,[Ring of the Dreamwalker],DRUID
+Relvar-Herod,[Ring of the Cryptstalker],HUNTER
+Pushed-Herod,[The Phylactery of Kel'Thuzad],ROGUE
+Daltarya-Herod,[Hammer of the Twisting Nether],SHAMAN
+Elimjr-Herod,[Stormrage's Talisman of Seething],WARRIOR
+Turkil-Herod,[Spire of Twilight],DRUID
+Relvar-Herod,[Desecrated Legguards],HUNTER
+Antarus-Herod,[Rime Covered Mantle],MAGE
+Nelthariana-Herod,[Desecrated Bindings],MAGE
+Lumaki-Herod,[Band of Unanswered Prayers],PRIEST
+Lumaki-Herod,[Wand of the Whispering Dead],PRIEST
+Hexx-Herod,[Desecrated Sabatons],ROGUE
+Ladeuche-Herod,[Desecrated Helmet],ROGUE
+Ladeuche-Herod,[Desecrated Legplates],ROGUE
+Ladeuche-Herod,[Desecrated Gauntlets],ROGUE
+Quavoce-Herod,[Desecrated Helmet],ROGUE
+Tanarik-Herod,[Band of Unnatural Forces],ROGUE
+Tanarik-Herod,[Polar Helmet],ROGUE
+Anzor-Herod,[Noth's Frigid Heart],SHAMAN
+Daltarya-Herod,[Desecrated Spaulders],SHAMAN
+Machomogan-Herod,[Midnight Haze],SHAMAN
+Obifish-Herod,[Desecrated Boots],SHAMAN
+Viridios-Herod,[Desecrated Boots],SHAMAN
+Hypospadias-Herod,[Desecrated Bindings],WARLOCK
+Rottingdots-Herod,[Desecrated Shoulderpads],WARLOCK
+Uvhash-Herod,[Malice Stone Pendant],WARLOCK
+Another-Herod,[Severance],WARRIOR
+Otr-Herod,[Stygian Buckler],WARRIOR
+Pippynaught-Herod,[Desecrated Waistguard],WARRIOR
+Rolodex-Herod,[Desecrated Waistguard],WARRIOR
+Rolodex-Herod,[Maexxna's Fang],WARRIOR
+Stoffel-Herod,[Ghoul Skin Tunic],WARRIOR
+Tojara-Herod,[Icebane Helmet],WARRIOR
+Blatherskite-Herod,[Power of the Scourge],MAGE
+Primetiime-Herod,[The Restrained Essence of Sapphiron],MAGE
+Korra-Herod,[Ring of Faith],PRIEST
+Anzor-Herod,[Ring of the Earthshatterer],SHAMAN
+Miado-Herod,[Hammer of the Twisting Nether],SHAMAN
+Otr-Herod,[Might of Menethil],WARRIOR
+Pippynaught-Herod,[The Face of Death],WARRIOR
+Rolodex-Herod,[Fortitude of the Scourge],WARRIOR
+Tojara-Herod,[The Phylactery of Kel'Thuzad],WARRIOR
+Ikevinge-Herod,[Desecrated Robe],MAGE
+Pushed-Herod,[Polar Helmet],ROGUE
+Windmonk-Herod,[Desecrated Boots],SHAMAN
+Pippynaught-Herod,[Desecrated Breastplate],WARRIOR
+Stoffel-Herod,[Leggings of Apocalypse],WARRIOR
+Hwarang-Herod,[Icy Scale Coif],HUNTER
+Hwarang-Herod,[Desecrated Girdle],HUNTER
+Hwarang-Herod,[Desecrated Wristguards],HUNTER
+Primetiime-Herod,[Wraith Blade],MAGE
+Bei-Herod,[Necro-Knight's Garb],PRIEST
+Bei-Herod,[Desecrated Shoulderpads],PRIEST
+Korra-Herod,[Desecrated Sabatons],PRIEST
+Pushed-Herod,[Desecrated Helmet],ROGUE
+Pushed-Herod,"[Iblis, Blade of the Fallen Seraph]",ROGUE
+Tanarik-Herod,[Desecrated Bracers],ROGUE
+Anzor-Herod,[The Widow's Embrace],SHAMAN
+Machomogan-Herod,[Cloak of Suturing],SHAMAN
+Viridios-Herod,[Desecrated Girdle],SHAMAN
+Uvhash-Herod,[Desecrated Shoulderpads],WARLOCK
+Elimjr-Herod,[Wristguards of Vengeance],WARRIOR
+Otr-Herod,[Toxin Injector],WARRIOR
+Otr-Herod,[Claymore of Unholy Might],WARRIOR
+Otr-Herod,[Plated Abomination Ribcage],WARRIOR
+Llenwe-Herod,[Leggings of Apocalypse],DRUID
+Regi-Herod,[Desecrated Sandals],MAGE
+Pushed-Herod,[Boots of Displacement],ROGUE
+Miado-Herod,[Desecrated Tunic],SHAMAN
+Viridios-Herod,[Desecrated Tunic],SHAMAN
+Yerso-Herod,[Desecrated Spaulders],HUNTER
+Yerso-Herod,[The Eye of Nerub],HUNTER
+Antarus-Herod,[Eye of Diminution],MAGE
+Blatherskite-Herod,[Rime Covered Mantle],MAGE
+Ikevinge-Herod,[Desecrated Circlet],MAGE
+Regi-Herod,[Glacial Mantle],MAGE
+Korra-Herod,[Desecrated Leggings],PRIEST
+Lilnipper-Herod,[Desecrated Helmet],ROGUE
+Quavoce-Herod,[Desecrated Legplates],ROGUE
+Tanarik-Herod,[Cloak of the Scourge],ROGUE
+Herc-Herod,[The Plague Bearer],SHAMAN
+Hypospadias-Herod,[Desecrated Shoulderpads],WARLOCK
+Hypospadias-Herod,[Desecrated Belt],WARLOCK
+Uvhash-Herod,[Desecrated Belt],WARLOCK
+Another-Herod,[Desecrated Bracers],WARRIOR
+Elimjr-Herod,[Icebane Helmet],WARRIOR
+Yerso-Herod,[Desecrated Legguards],HUNTER
+Windmonk-Herod,[Ring of Spiritual Fervor],SHAMAN
+Pippynaught-Herod,[Desecrated Legplates],WARRIOR
+Emoform-Herod,[Desecrated Girdle],DRUID
+Turkil-Herod,[Desecrated Girdle],DRUID
+Hwarang-Herod,[Desecrated Spaulders],HUNTER
+Blatherskite-Herod,[Desecrated Bindings],MAGE
+Primetiime-Herod,[Glacial Mantle],MAGE
+Primetiime-Herod,[Loatheb's Reflection],MAGE
+Evaldine-Herod,[Desecrated Sandals],PRIEST
+Korra-Herod,[Desecrated Circlet],PRIEST
+Korra-Herod,[Desecrated Gloves],PRIEST
+Pushed-Herod,[Desecrated Gauntlets],ROGUE
+Tanarik-Herod,[Maexxna's Fang],ROGUE
+Anzor-Herod,[Desecrated Legguards],SHAMAN
+Daltarya-Herod,[Desecrated Headpiece],SHAMAN
+Herc-Herod,[Malice Stone Pendant],SHAMAN
+Rottingdots-Herod,[Wand of Fates],WARLOCK
+Rottingdots-Herod,[Touch of Frost],WARLOCK
+Uvhash-Herod,[Desecrated Bindings],WARLOCK
+Elimjr-Herod,[Plated Abomination Ribcage],WARRIOR
+Gizzak-Herod,[Icebane Helmet],WARRIOR
+Otr-Herod,[Girdle of the Mentor],WARRIOR
+Pippynaught-Herod,[Desecrated Pauldrons],WARRIOR
+Rolodex-Herod,[Hailstone Band],WARRIOR
+Rolodex-Herod,[Desecrated Legplates],WARRIOR
+Hwarang-Herod,[Desecrated Handguards],HUNTER
+Relvar-Herod,[Desecrated Wristguards],HUNTER
+Relvar-Herod,[Icy Scale Coif],HUNTER
+Blatherskite-Herod,[Desecrated Belt],MAGE
+Primetiime-Herod,[Desecrated Sandals],MAGE
+Pushed-Herod,[Cloak of the Scourge],ROGUE
+Quavoce-Herod,[Desecrated Bracers],ROGUE
+Machomogan-Herod,[Desecrated Handguards],SHAMAN
+Hypospadias-Herod,[Veil of Eclipse],WARLOCK
+Rottingdots-Herod,[Wraith Blade],WARLOCK
+Uvhash-Herod,[Gem of Nerubis],WARLOCK
+Hoofsman-Herod,[Desecrated Waistguard],WARRIOR
+Stoffel-Herod,[Icebane Pauldrons],WARRIOR
+Primetiime-Herod,[Eyestalk Waist Cord],MAGE
+Rolodex-Herod,[Dark Edge of Insanity],WARRIOR
+Rottingdots-Herod,[Skin of the Great Sandworm],WARLOCK
+Gizzak-Herod,[Ouro's Intact Hide],WARRIOR
+Tojara-Herod,[Larvae of the Great Worm],WARRIOR
+Emoform-Herod,[Eye of C'Thun],DRUID
+Blatherskite-Herod,[The Soul Harvester's Bindings],MAGE
+Anzor-Herod,[Desecrated Boots],SHAMAN
+Emoform-Herod,[Cloak of Suturing],DRUID
+Emoform-Herod,[Desecrated Handguards],DRUID
+Turkil-Herod,[Desecrated Spaulders],DRUID
+Yerso-Herod,[Icy Scale Coif],HUNTER
+Yerso-Herod,[Desecrated Boots],HUNTER
+Blatherskite-Herod,[Pendant of Forgotten Names],MAGE
+Ikevinge-Herod,[Glacial Mantle],MAGE
+Ikevinge-Herod,[Rime Covered Mantle],MAGE
+Nelthariana-Herod,[Desecrated Belt],MAGE
+Primetiime-Herod,[Desecrated Circlet],MAGE
+Bei-Herod,[Desecrated Leggings],PRIEST
+Bei-Herod,[Wand of the Whispering Dead],PRIEST
+Evaldine-Herod,[Desecrated Shoulderpads],PRIEST
+Evaldine-Herod,[Desecrated Bindings],PRIEST
+Jab-Herod,[Desecrated Waistguard],ROGUE
+Tanarik-Herod,[Cloak of the Scourge],ROGUE
+Akthalian-Herod,[Desecrated Handguards],SHAMAN
+Miado-Herod,[Desecrated Boots],SHAMAN
+Obifish-Herod,[Ring of Spiritual Fervor],SHAMAN
+Niado-Herod,[Desecrated Leggings],WARLOCK
+Rottingdots-Herod,[Desecrated Bindings],WARLOCK
+Gizzak-Herod,[Plated Abomination Ribcage],WARRIOR
+Hoofsman-Herod,[Desecrated Helmet],WARRIOR
+Hoofsman-Herod,[Widow's Remorse],WARRIOR
+Stoffel-Herod,[Wristguards of Vengeance],WARRIOR
+Relvar-Herod,[Desecrated Girdle],HUNTER
+Nosnitchin-Herod,[Wraith Blade],MAGE
+Korra-Herod,[Touch of Frost],PRIEST
+Korra-Herod,[Preceptor's Hat],PRIEST
+Tanarik-Herod,[Desecrated Gauntlets],ROGUE
+Akthalian-Herod,[Desecrated Wristguards],SHAMAN
+Hypospadias-Herod,[Desecrated Gloves],WARLOCK
+Pippynaught-Herod,[Desecrated Bracers],WARRIOR
+Tojara-Herod,[Icebane Pauldrons],WARRIOR
+Hwarang-Herod,[Cloak of the Scourge],HUNTER
+Relvar-Herod,[Icy Scale Spaulders],HUNTER
+Evaldine-Herod,[Desecrated Circlet],PRIEST
+Evaldine-Herod,[Wand of the Whispering Dead],PRIEST
+Korra-Herod,[Desecrated Shoulderpads],PRIEST
+Korra-Herod,[Necro-Knight's Garb],PRIEST
+Pushed-Herod,[Desecrated Waistguard],ROGUE
+Tanarik-Herod,[Desecrated Helmet],ROGUE
+Akthalian-Herod,[Digested Hand of Power],SHAMAN
+Akthalian-Herod,[Desecrated Boots],SHAMAN
+Herc-Herod,[Pauldrons of Elemental Fury],SHAMAN
+Machomogan-Herod,[Desecrated Spaulders],SHAMAN
+Hypospadias-Herod,[Desecrated Sandals],WARLOCK
+Niado-Herod,[Wand of Fates],WARLOCK
+Pippynaught-Herod,[Desecrated Sabatons],WARRIOR
+Rolodex-Herod,[Sadist's Collar],WARRIOR
+Tojara-Herod,[Plated Abomination Ribcage],WARRIOR
+Korra-Herod,[Wand of the Whispering Dead],PRIEST
+Uvhash-Herod,[Necro-Knight's Garb],WARLOCK
+Rolodex-Herod,[Desecrated Sabatons],WARRIOR
+Emoform-Herod,[Desecrated Spaulders],DRUID
+Relvar-Herod,[Band of Reanimation],HUNTER
+Primetiime-Herod,[Rime Covered Mantle],MAGE
+Bei-Herod,[Desecrated Sandals],PRIEST
+Anzor-Herod,[Totem of Flowing Water],SHAMAN
+Daltarya-Herod,[Desecrated Girdle],SHAMAN
+Herc-Herod,[Eye of Diminution],SHAMAN
+Miado-Herod,[Misplaced Servo Arm],SHAMAN
+Miado-Herod,[Desecrated Girdle],SHAMAN
+Uvhash-Herod,[Preceptor's Hat],WARLOCK
+Pippynaught-Herod,[Desecrated Helmet],WARRIOR
+Rolodex-Herod,[Toxin Injector],WARRIOR
+Rolodex-Herod,[Desecrated Helmet],WARRIOR
+Bei-Herod,[Desecrated Gloves],PRIEST
+Korra-Herod,[Desecrated Bindings],PRIEST
+Anzor-Herod,[Band of Unanswered Prayers],SHAMAN
+Daltarya-Herod,[Desecrated Handguards],SHAMAN
+Machomogan-Herod,[The Widow's Embrace],SHAMAN
+Niado-Herod,[Desecrated Bindings],WARLOCK
+Cyragar-Herod,[Stygian Buckler],WARRIOR
+Rolodex-Herod,[Kiss of the Spider],WARRIOR
+Pippynaught-Herod,[Royal Qiraji Belt],WARRIOR
+Pippynaught-Herod,[Eye of C'Thun],WARRIOR
+Anzor-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Anzor-Herod,[Regenerating Belt of Vek'nilash],SHAMAN
+Anzor-Herod,[Carapace of the Old God],SHAMAN
+Yerso-Herod,[Qiraji Bindings of Command],HUNTER
+Evaldine-Herod,[Robes of the Battleguard],PRIEST
+Evaldine-Herod,[Cloak of Clarity],PRIEST
+Machomogan-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Machomogan-Herod,[Vek'lor's Diadem],SHAMAN
+Herc-Herod,[Leggings of Immersion],SHAMAN
+Elimjr-Herod,[Beetle Scaled Wristguards],WARRIOR
+Elimjr-Herod,[Pauldrons of the Unrelenting],WARRIOR
+Elimjr-Herod,[Qiraji Bindings of Command],WARRIOR
+Uvhash-Herod,[Imperial Qiraji Regalia],WARLOCK
+Uvhash-Herod,[Skin of the Great Sandworm],WARLOCK
+Viridios-Herod,[Plans: Thick Obsidian Breastplate],SHAMAN
+Quavoce-Herod,[Imperial Qiraji Armaments],ROGUE
+Quavoce-Herod,[Death's Sting],ROGUE
+Rolodex-Herod,[Ring of the Qiraji Fury],WARRIOR
+Hwarang-Herod,[Silithid Claw],HUNTER
+Nosnitchin-Herod,[Ouro's Intact Hide],MAGE
+Tojara-Herod,[Barbed Choker],WARRIOR
+Korra-Herod,[Cape of the Trinity],PRIEST
+Korra-Herod,[Formula: Enchant Gloves - Threat],PRIEST
+Niado-Herod,[Petrified Scarab],WARLOCK
+Niado-Herod,[Huhuran's Stinger],WARLOCK
+Niado-Herod,[Vek'nilash's Circlet],WARLOCK
+Niado-Herod,[Husk of the Old God],WARLOCK
+Obifish-Herod,[Skin of the Great Sandworm],SHAMAN
+Anzor-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Anzor-Herod,[Vek'lor's Diadem],SHAMAN
+Akthalian-Herod,[Scaled Leggings of Qiraji Fury],SHAMAN
+Akthalian-Herod,[Wasphide Gauntlets],SHAMAN
+Akthalian-Herod,[Eye of C'Thun],SHAMAN
+Otr-Herod,[Vek'nilash's Circlet],WARRIOR
+Daltarya-Herod,[Gloves of the Hidden Temple],SHAMAN
+Evaldine-Herod,[Qiraji Bindings of Command],PRIEST
+Evaldine-Herod,[Qiraji Bindings of Command],PRIEST
+Machomogan-Herod,[Leggings of Immersion],SHAMAN
+Machomogan-Herod,[Carapace of the Old God],SHAMAN
+Ikevinge-Herod,[Leggings of the Festering Swarm],MAGE
+Herc-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Llenwe-Herod,[Mantle of Wicked Revenge],DRUID
+Turkil-Herod,[Idol of Health],DRUID
+Uvhash-Herod,[Husk of the Old God],WARLOCK
+Tanarik-Herod,[Qiraji Execution Bracers],ROGUE
+Infil-Herod,[Ouro's Intact Hide],WARRIOR
+Blatherskite-Herod,[Formula: Enchant Gloves - Fire Power],MAGE
+Marbas-Herod,[Petrified Scarab],WARLOCK
+Rolodex-Herod,[Pauldrons of the Unrelenting],WARRIOR
+Nosnitchin-Herod,[Dark Storm Gauntlets],MAGE
+Rottingdots-Herod,[Garb of Royal Ascension],WARLOCK
+Tojara-Herod,[Boots of the Unwavering Will],WARRIOR
+Emoform-Herod,[Grasp of the Old God],DRUID
+Korra-Herod,[Triad Girdle],PRIEST
+Korra-Herod,[Burrower Bracers],PRIEST
+Pippynaught-Herod,[Gauntlets of Annihilation],WARRIOR
+Pippynaught-Herod,[Death's Sting],WARRIOR
+Obifish-Herod,[Wasphide Gauntlets],SHAMAN
+Bei-Herod,[Ternary Mantle],PRIEST
+Bei-Herod,[Scarab Brooch],PRIEST
+Bei-Herod,[Red Qiraji Resonating Crystal],PRIEST
+Hypospadias-Herod,[Husk of the Old God],WARLOCK
+Daltarya-Herod,[Eye of C'Thun],SHAMAN
+Cyragar-Herod,[Ouro's Intact Hide],WARRIOR
+Machomogan-Herod,[Vek'lor's Gloves of Devastation],SHAMAN
+Machomogan-Herod,[Skin of the Great Sandworm],SHAMAN
+Nelthariana-Herod,[Amulet of Vek'nilash],MAGE
+Herc-Herod,[Boots of the Fallen Prophet],SHAMAN
+Herc-Herod,[Vek'lor's Diadem],SHAMAN
+Herc-Herod,[Carapace of the Old God],SHAMAN
+Turkil-Herod,[Mantle of Wicked Revenge],DRUID
+Uvhash-Herod,[Qiraji Bindings of Dominance],WARLOCK
+Uvhash-Herod,[Vek'nilash's Circlet],WARLOCK
+Tanarik-Herod,[Gloves of Enforcement],ROGUE
+Tanarik-Herod,[Larvae of the Great Worm],ROGUE
+Blatherskite-Herod,[Formula: Enchant Gloves - Superior Agility],MAGE
+Blatherskite-Herod,[Qiraji Bindings of Dominance],MAGE
+Pykan-Herod,[Gloves of Ebru],DRUID
+Rolodex-Herod,[Pendant of the Qiraji Guardian],WARRIOR
+Gizzak-Herod,[Qiraji Bindings of Command],WARRIOR
+Emoform-Herod,[Thick Qirajihide Belt],DRUID
+Korra-Herod,[Plans: Thick Obsidian Breastplate],PRIEST
+Korra-Herod,[Qiraji Bindings of Command],PRIEST
+Warspyte-Herod,[Barb of the Sand Reaver],HUNTER
+Pippynaught-Herod,[Gauntlets of Annihilation],WARRIOR
+Hypospadias-Herod,[Qiraji Bindings of Dominance],WARLOCK
+Otr-Herod,[Larvae of the Great Worm],WARRIOR
+Otr-Herod,[Ring of the Godslayer],WARRIOR
+Daltarya-Herod,[Angelista's Charm],SHAMAN
+Daltarya-Herod,[Vek'lor's Diadem],SHAMAN
+Cyragar-Herod,[Fetish of the Sand Reaver],WARRIOR
+Cyragar-Herod,[Qiraji Bindings of Command],WARRIOR
+Machomogan-Herod,[Gloves of the Messiah],SHAMAN
+Turkil-Herod,[Skin of the Great Sandworm],DRUID
+Elimjr-Herod,[Gauntlets of Steadfast Determination],WARRIOR
+Elimjr-Herod,[Ring of Emperor Vek'lor],WARRIOR
+Elimjr-Herod,[Ouro's Intact Hide],WARRIOR
+Stoffel-Herod,[Imperial Qiraji Armaments],WARRIOR
+Stoffel-Herod,[Triad Girdle],WARRIOR
+Infil-Herod,[Silithid Carapace Chestguard],WARRIOR
+Quavoce-Herod,[Carapace of the Old God],ROGUE
+Hoofsman-Herod,[Boots of the Unwavering Will],WARRIOR
+Hoofsman-Herod,[Plans: Thick Obsidian Breastplate],WARRIOR
+Marbas-Herod,[Qiraji Bindings of Dominance],WARLOCK
+Anzos-Herod,[Vek'nilash's Circlet],WARRIOR
+Relvar-Herod,[Badge of the Swarmguard],HUNTER
+Emoform-Herod,[Gloves of the Hidden Temple],DRUID
+Korra-Herod,[Leggings of Immersion],PRIEST
+Korra-Herod,[Qiraji Bindings of Command],PRIEST
+Korra-Herod,[Husk of the Old God],PRIEST
+Warspyte-Herod,[Slime-coated Leggings],HUNTER
+Miado-Herod,[Eye of C'Thun],SHAMAN
+Pippynaught-Herod,[Pauldrons of the Unrelenting],WARRIOR
+Obifish-Herod,[Regenerating Belt of Vek'nilash],SHAMAN
+Akthalian-Herod,[Angelista's Charm],SHAMAN
+Akthalian-Herod,[Robes of the Guardian Saint],SHAMAN
+Hypospadias-Herod,[Qiraji Bindings of Dominance],WARLOCK
+Hypospadias-Herod,[Garb of Royal Ascension],WARLOCK
+Otr-Herod,[Qiraji Bindings of Command],WARRIOR
+Daltarya-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Daltarya-Herod,[Skin of the Great Sandworm],SHAMAN
+Evaldine-Herod,[Vek'nilash's Circlet],PRIEST
+Evaldine-Herod,[The Burrower's Shell],PRIEST
+Cyragar-Herod,[Ring of the Qiraji Fury],WARRIOR
+Turkil-Herod,[Grasp of the Old God],DRUID
+Elimjr-Herod,[Beetle Scaled Wristguards],WARRIOR
+Stoffel-Herod,[Ouro's Intact Hide],WARRIOR
+Viridios-Herod,[Carapace of the Old God],SHAMAN
+Pushed-Herod,[Qiraji Bindings of Command],ROGUE
+Marbas-Herod,[Cloak of the Devoured],WARLOCK
+Rolodex-Herod,[Cape of the Trinity],WARRIOR
+Rolodex-Herod,[Gauntlets of Steadfast Determination],WARRIOR
+Rottingdots-Herod,[Husk of the Old God],WARLOCK
+Korra-Herod,[Ring of the Martyr],PRIEST
+Korra-Herod,[Eye of C'Thun],PRIEST
+Miado-Herod,[Sartura's Might],SHAMAN
+Niado-Herod,[Barrage Shoulders],WARLOCK
+Akthalian-Herod,[Scarab Brooch],SHAMAN
+Akthalian-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Akthalian-Herod,[Imperial Qiraji Regalia],SHAMAN
+Daltarya-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Daltarya-Herod,[Skin of the Great Sandworm],SHAMAN
+Cyragar-Herod,[Vek'nilash's Circlet],WARRIOR
+Turkil-Herod,[Wasphide Gauntlets],DRUID
+Stoffel-Herod,[Ooze-ridden Gauntlets],WARRIOR
+Tanarik-Herod,[Qiraji Bindings of Command],ROGUE
+Quavoce-Herod,[Qiraji Bindings of Command],ROGUE
+Quavoce-Herod,[Vek'lor's Diadem],ROGUE
+Lilnipper-Herod,[Beetle Scaled Wristguards],ROGUE
+Pushed-Herod,[Carapace of the Old God],ROGUE
+Pykan-Herod,[Leggings of Immersion],DRUID
+Hoofsman-Herod,[Royal Qiraji Belt],WARRIOR
+Hoofsman-Herod,[Gloves of the Hidden Temple],WARRIOR
+Marbas-Herod,[Husk of the Old God],WARLOCK
+Anzos-Herod,[Scaled Sand Reaver Leggings],WARRIOR
+Tojara-Herod,[Plans: Thick Obsidian Breastplate],WARRIOR
+Korra-Herod,[Ouro's Intact Hide],PRIEST
+Korra-Herod,[Grasp of the Old God],PRIEST
+Warspyte-Herod,[Eye of C'Thun],HUNTER
+Niado-Herod,[Cloak of Untold Secrets],WARLOCK
+Niado-Herod,[Formula: Enchant Gloves - Threat],WARLOCK
+Niado-Herod,[Cloak of the Devoured],WARLOCK
+Pippynaught-Herod,[Gauntlets of Steadfast Determination],WARRIOR
+Pippynaught-Herod,[Ring of Emperor Vek'lor],WARRIOR
+Pippynaught-Herod,[Dark Edge of Insanity],WARRIOR
+Jab-Herod,[Belt of Never-ending Agony],ROGUE
+Bei-Herod,[Ring of the Martyr],PRIEST
+Akthalian-Herod,[Creeping Vine Helm],SHAMAN
+Akthalian-Herod,[Vek'nilash's Circlet],SHAMAN
+Akthalian-Herod,[The Burrower's Shell],SHAMAN
+Akthalian-Herod,[Carapace of the Old God],SHAMAN
+Otr-Herod,[Ouro's Intact Hide],WARRIOR
+Cyragar-Herod,[Pendant of the Qiraji Guardian],WARRIOR
+Cyragar-Herod,[Ooze-ridden Gauntlets],WARRIOR
+Nelthariana-Herod,[Eye of C'Thun],MAGE
+Herc-Herod,[Ring of Swarming Thought],SHAMAN
+Herc-Herod,[Gauntlets of Kalimdor],SHAMAN
+Elimjr-Herod,[Barbed Choker],WARRIOR
+Viridios-Herod,[Vek'lor's Diadem],SHAMAN
+Tanarik-Herod,[Fetish of the Sand Reaver],ROGUE
+Tanarik-Herod,[Qiraji Bindings of Command],ROGUE
+Quavoce-Herod,[Qiraji Bindings of Command],ROGUE
+Pykan-Herod,[Qiraji Bindings of Dominance],DRUID
+Pykan-Herod,[Qiraji Bindings of Dominance],DRUID
+Hwarang-Herod,[Red Qiraji Resonating Crystal],HUNTER
+Gizzak-Herod,[Triad Girdle],WARRIOR
+Emoform-Herod,[Bracelets of Royal Redemption],DRUID
+Emoform-Herod,[Skin of the Great Sandworm],DRUID
+Emoform-Herod,[Husk of the Old God],DRUID
+Korra-Herod,[Formula: Enchant Cloak - Dodge],PRIEST
+Otr-Herod,[Anubisath Warhammer],WARRIOR
+Cyragar-Herod,[Larvae of the Great Worm],WARRIOR
+Viridios-Herod,[Skin of the Great Sandworm],SHAMAN
+Pykan-Herod,[Husk of the Old God],DRUID
+Tojara-Herod,[Ouro's Intact Hide],WARRIOR
+Windmonk-Herod,[Scaled Leggings of Qiraji Fury],SHAMAN
+Windmonk-Herod,[Gauntlets of Kalimdor],SHAMAN
+Jab-Herod,[Qiraji Bindings of Command],ROGUE
+Akthalian-Herod,"[Neretzek, The Blood Drinker]",SHAMAN
+Otr-Herod,[Barbed Choker],WARRIOR
+Yerso-Herod,[Silithid Claw],HUNTER
+Evaldine-Herod,[Cape of the Trinity],PRIEST
+Llenwe-Herod,[Hive Tunneler's Boots],DRUID
+Llenwe-Herod,[Qiraji Execution Bracers],DRUID
+Stoffel-Herod,[Breastplate of Annihilation],WARRIOR
+Stoffel-Herod,[Qiraji Bindings of Command],WARRIOR
+Viridios-Herod,[Angelista's Charm],SHAMAN
+Viridios-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Viridios-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Pushed-Herod,[Vek'lor's Diadem],ROGUE
+Pykan-Herod,[Ritssyn's Ring of Chaos],DRUID
+Primetiime-Herod,[Red Qiraji Resonating Crystal],MAGE
+Warspyte-Herod,[Amulet of Foul Warding],HUNTER
+Warspyte-Herod,[Huhuran's Stinger],HUNTER
+Jab-Herod,[Cloak of Concentrated Hatred],ROGUE
+Jab-Herod,[Qiraji Bindings of Command],ROGUE
+Jab-Herod,[Vek'lor's Diadem],ROGUE
+Siggma-Herod,[Guise of the Devourer],DRUID
+Siggma-Herod,[Thick Qirajihide Belt],DRUID
+Akthalian-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Akthalian-Herod,[Ring of the Martyr],SHAMAN
+Hypospadias-Herod,[Skin of the Great Sandworm],WARLOCK
+Evaldine-Herod,[Grasp of the Old God],PRIEST
+Cyragar-Herod,[Pauldrons of the Unrelenting],WARRIOR
+Machomogan-Herod,[Grasp of the Fallen Emperor],SHAMAN
+Ikevinge-Herod,[Formula: Enchant Gloves - Superior Agility],MAGE
+Ikevinge-Herod,[Formula: Enchant Gloves - Shadow Power],MAGE
+Herc-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Herc-Herod,[Cloak of the Devoured],SHAMAN
+Herc-Herod,[Eye of C'Thun],SHAMAN
+Llenwe-Herod,[Gloves of Enforcement],DRUID
+Turkil-Herod,[Husk of the Old God],DRUID
+Elimjr-Herod,[Scaled Sand Reaver Leggings],WARRIOR
+Viridios-Herod,[Imperial Qiraji Regalia],SHAMAN
+Tanarik-Herod,[Carapace of the Old God],ROGUE
+Quavoce-Herod,[Ouro's Intact Hide],ROGUE
+Pushed-Herod,[Beetle Scaled Wristguards],ROGUE
+Blatherskite-Herod,[Sharpened Silithid Femur],MAGE
+Pykan-Herod,[Boots of Epiphany],DRUID
+Hoofsman-Herod,[Qiraji Bindings of Command],WARRIOR
+Marbas-Herod,[Garb of Royal Ascension],WARLOCK
+Rolodex-Herod,[Ooze-ridden Gauntlets],WARRIOR
+Hwarang-Herod,[Jom Gabbar],HUNTER
+Relvar-Herod,[Imperial Qiraji Armaments],HUNTER
+Tojara-Herod,[Vek'nilash's Circlet],WARRIOR
+Korra-Herod,"[Neretzek, The Blood Drinker]",PRIEST
+Windmonk-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Windmonk-Herod,[Vek'lor's Diadem],SHAMAN
+Akthalian-Herod,[Hammer of Ji'zhi],SHAMAN
+Hypospadias-Herod,[Leggings of the Festering Swarm],WARLOCK
+Otr-Herod,[Qiraji Bindings of Command],WARRIOR
+Stoffel-Herod,[Ring of the Qiraji Fury],WARRIOR
+Stoffel-Herod,[Vek'nilash's Circlet],WARRIOR
+Tanarik-Herod,[Death's Sting],ROGUE
+Blatherskite-Herod,[Robes of the Triumvirate],MAGE
+Blatherskite-Herod,[Formula: Enchant Cloak - Subtlety],MAGE
+Pykan-Herod,[Royal Scepter of Vek'lor],DRUID
+Pykan-Herod,[Red Qiraji Resonating Crystal],DRUID
+Pykan-Herod,[Skin of the Great Sandworm],DRUID
+Pykan-Herod,[Eye of C'Thun],DRUID
+Hoofsman-Herod,[Qiraji Bindings of Command],WARRIOR
+Anzos-Herod,[Silithid Carapace Chestguard],WARRIOR
+Anzos-Herod,[Ouro's Intact Hide],WARRIOR
+Anzos-Herod,[Gauntlets of Annihilation],WARRIOR
+Norzar-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Norzar-Herod,[Grasp of the Fallen Emperor],SHAMAN
+Tojara-Herod,[Pendant of the Qiraji Guardian],WARRIOR
+Tojara-Herod,[Fetish of the Sand Reaver],WARRIOR
+Emoform-Herod,[Ring of the Martyr],DRUID
+Korra-Herod,[Don Rigoberto's Lost Hat],PRIEST
+Korra-Herod,[Husk of the Old God],PRIEST
+Warspyte-Herod,[Badge of the Swarmguard],HUNTER
+Miado-Herod,[Ring of the Devoured],SHAMAN
+Pippynaught-Herod,[Cloak of the Golden Hive],WARRIOR
+Windmonk-Herod,[Scarab Brooch],SHAMAN
+Windmonk-Herod,[Wormscale Blocker],SHAMAN
+Jab-Herod,[Gloves of Enforcement],ROGUE
+Jab-Herod,[Ouro's Intact Hide],ROGUE
+Akthalian-Herod,[Skin of the Great Sandworm],SHAMAN
+Hypospadias-Herod,[Amulet of Vek'nilash],WARLOCK
+Otr-Herod,[Imperial Qiraji Armaments],WARRIOR
+Daltarya-Herod,[Robes of the Guardian Saint],SHAMAN
+Evaldine-Herod,[Imperial Qiraji Regalia],PRIEST
+Nelthariana-Herod,[Qiraji Bindings of Dominance],MAGE
+Nelthariana-Herod,[Husk of the Old God],MAGE
+Llenwe-Herod,[Imperial Qiraji Regalia],DRUID
+Elimjr-Herod,[Vek'nilash's Circlet],WARRIOR
+Jy-Herod,[Cloak of Concentrated Hatred],ROGUE
+Jy-Herod,[Vek'lor's Diadem],ROGUE
+Viridios-Herod,[Ring of the Devoured],SHAMAN
+Infil-Herod,[Qiraji Bindings of Command],WARRIOR
+Pushed-Herod,[Qiraji Bindings of Command],ROGUE
+Pykan-Herod,[Ring of Swarming Thought],DRUID
+Hoofsman-Herod,[Gauntlets of Steadfast Determination],WARRIOR
+Hoofsman-Herod,[Imperial Qiraji Armaments],WARRIOR
+Hoofsman-Herod,[Carapace of the Old God],WARRIOR
+Rolodex-Herod,[Ring of Emperor Vek'lor],WARRIOR
+Tojara-Herod,[Fetish of the Sand Reaver],WARRIOR
+Miado-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Bei-Herod,[Gloves of the Messiah],PRIEST
+Hypospadias-Herod,[Cloak of Untold Secrets],WARLOCK
+Hypospadias-Herod,[Skin of the Great Sandworm],WARLOCK
+Daltarya-Herod,[Gloves of the Hidden Temple],SHAMAN
+Yerso-Herod,[Eye of C'Thun],HUNTER
+Cyragar-Herod,[Vest of Swift Execution],WARRIOR
+Cyragar-Herod,[Qiraji Bindings of Command],WARRIOR
+Cyragar-Herod,[Gauntlets of Annihilation],WARRIOR
+Nelthariana-Herod,[Boots of Epiphany],MAGE
+Herc-Herod,[Scaled Leggings of Qiraji Fury],SHAMAN
+Herc-Herod,[Recomposed Boots],SHAMAN
+Jy-Herod,[Belt of Never-ending Agony],ROGUE
+Hoofsman-Herod,[Angelista's Touch],WARRIOR
+Hoofsman-Herod,[Vek'nilash's Circlet],WARRIOR
+Hoofsman-Herod,[Ouro's Intact Hide],WARRIOR
+Primetiime-Herod,[Husk of the Old God],MAGE
+Rolodex-Herod,[Silithid Carapace Chestguard],WARRIOR
+Norzar-Herod,[Vek'lor's Diadem],SHAMAN
+Norzar-Herod,[Carapace of the Old God],SHAMAN
+Emoform-Herod,[Leggings of Immersion],DRUID
+Emoform-Herod,[Don Rigoberto's Lost Hat],DRUID
+Korra-Herod,[Hammer of Ji'zhi],PRIEST
+Miado-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Windmonk-Herod,[Qiraji Bindings of Dominance],SHAMAN
+Jab-Herod,[Beetle Scaled Wristguards],ROGUE
+Bei-Herod,[Eye of C'Thun],PRIEST
+Akthalian-Herod,[Barrage Shoulders],SHAMAN
+Akthalian-Herod,[Vek'lor's Diadem],SHAMAN
+Hypospadias-Herod,[Blue Qiraji Resonating Crystal],WARLOCK
+Yerso-Herod,[Jom Gabbar],HUNTER
+Cyragar-Herod,[Blue Qiraji Resonating Crystal],WARRIOR
+Cyragar-Herod,[Hive Defiler Wristguards],WARRIOR
+Ikevinge-Herod,[Wand of Qiraji Nobility],MAGE
+Ikevinge-Herod,[Qiraji Bindings of Dominance],MAGE
+Llenwe-Herod,[Gloves of the Hidden Temple],DRUID
+Elimjr-Herod,[Necklace of Purity],WARRIOR
+Elimjr-Herod,[Dark Edge of Insanity],WARRIOR
+Stoffel-Herod,[Scaled Sand Reaver Leggings],WARRIOR
+Lilnipper-Herod,[Qiraji Execution Bracers],ROGUE
+Pushed-Herod,[Gloves of Enforcement],ROGUE
+Rolodex-Herod,[Robes of the Triumvirate],WARRIOR
+Anzos-Herod,[Qiraji Bindings of Command],WARRIOR
+Norzar-Herod,[Skin of the Great Sandworm],SHAMAN
+Rottingdots-Herod,[Vek'nilash's Circlet],WARLOCK
+Rottingdots-Herod,[Eyestalk Waist Cord],WARLOCK
+Relvar-Herod,[Yellow Qiraji Resonating Crystal],HUNTER
+Relvar-Herod,[Green Qiraji Resonating Crystal],HUNTER
+Tojara-Herod,[Qiraji Bindings of Command],WARRIOR
+Tojara-Herod,[Ring of the Qiraji Fury],WARRIOR
+Tojara-Herod,[Ouro's Intact Hide],WARRIOR
+Regi-Herod,[Husk of the Old God],MAGE
+Warspyte-Herod,[Yellow Qiraji Resonating Crystal],HUNTER
+Miado-Herod,[Totem of Life],SHAMAN
+Miado-Herod,[Carapace of the Old God],SHAMAN
+Jab-Herod,[Qiraji Bindings of Command],ROGUE
+Primetiime-Herod,[Qiraji Bindings of Dominance],MAGE
+Miado-Herod,[Scarab Brooch],SHAMAN
+Akthalian-Herod,[Vek'lor's Gloves of Devastation],SHAMAN
+Akthalian-Herod,[Skin of the Great Sandworm],SHAMAN
+Nelthariana-Herod,[Burrower Bracers],MAGE
+Elimjr-Herod,[Vest of Swift Execution],WARRIOR
+Elimjr-Herod,[Robes of the Triumvirate],WARRIOR
+Elimjr-Herod,[Silithid Carapace Chestguard],WARRIOR
+Jy-Herod,[Ouro's Intact Hide],ROGUE
+Viridios-Herod,[Bracelets of Royal Redemption],SHAMAN
+Quavoce-Herod,[Thick Qirajihide Belt],ROGUE
+Lilnipper-Herod,[Qiraji Bindings of Command],ROGUE
+Lilnipper-Herod,[Carapace of the Old God],ROGUE
+Hoofsman-Herod,[Mark of C'Thun],WARRIOR
+Marbas-Herod,[Vek'nilash's Circlet],WARLOCK
+Nosnitchin-Herod,[Husk of the Old God],MAGE
+Norzar-Herod,[Ring of the Martyr],SHAMAN
+Rottingdots-Herod,[Cloak of Untold Secrets],WARLOCK
+Rottingdots-Herod,[Qiraji Bindings of Dominance],WARLOCK
+Relvar-Herod,[Ring of the Godslayer],HUNTER
+Emoform-Herod,[Sartura's Might],DRUID
+Miado-Herod,[Vek'lor's Diadem],SHAMAN
+Miado-Herod,[Red Qiraji Resonating Crystal],SHAMAN
+Niado-Herod,[Eye of C'Thun],WARLOCK
